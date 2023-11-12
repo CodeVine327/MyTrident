@@ -1,0 +1,7 @@
+# 请使用 MiniMessage 格式。
+# 预览器：https://webui.advntr.dev
+# 使用帮助：https://docs.advntr.dev/minimessage/format.html
+message:
+  lost: "你有 {amount} 个丢失的三叉戟！输入/trident 找回 (如果背包满了会掉落在地上)"
+  no-trident: "暂无丢失的三叉戟，过一会儿再来看看吧~"
+  success: "丢失的三叉戟已发还给你！"

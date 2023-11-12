@@ -1,0 +1,14 @@
+name: MyTrident
+version: '${version}'
+main: io.github.codevine327.mytrident.MyTrident
+api-version: '1.20'
+authors: [ TheLittle_Yang ]
+website: https://github.com
+
+commands:
+  trident:
+    permission: mytrident.use
+
+permissions:
+  mytrident.use:
+    default: true
